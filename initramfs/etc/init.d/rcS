@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mount -t tmpfs tmpfs /tmp
+
+hostname sth404_OS

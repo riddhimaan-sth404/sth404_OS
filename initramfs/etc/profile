@@ -1,0 +1,12 @@
+sleep 1 >/dev/null 2>&1
+echo
+sleep 1 >/dev/null 2>&1
+echo "Successfully booted sth404_OS..."
+sleep 1 >/dev/null 2>&1
+echo "Made by Cadet Riddhimaan Singh."
+sleep 1 >/dev/null 2>&1
+echo "Type 'install' to install sth404_OS to disk."
+echo
+
+
+export PS1="> "
