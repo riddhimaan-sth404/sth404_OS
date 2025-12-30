@@ -132,5 +132,5 @@ If you’re here to learn how operating systems *actually work* — welcome.
 
 ## Author
 
-Built by **sth404**  
+Built by **Riddhimaan Singh**  
 Fueled by curiosity, frustration, and way too many reboots.
